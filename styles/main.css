@@ -24,6 +24,9 @@ a, a:visited, a:focus {
 .secondary-color{
   color: var(--secondary-color);
 }
+.secondary-color-fill{
+  fill: var(--secondary-color)
+}
 
 h1{
   font-size: clamp(32px, 4vw, 88px);
